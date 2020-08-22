@@ -15,3 +15,31 @@ Exercises
 4. PHP Comments
 
 5. Todo: Learn PHP
+
+## PHP Strings and Variables
+
+LESSON 2
+
+Learn about PHP Strings and Variables
+
+Exercises
+
+1. Strings
+
+2. Escape Sequences
+
+3. String Concatenation
+
+4. Variables
+
+5. Creating Variables
+
+6. Using Variables
+
+7. Variable Parsing
+
+8. Variable Reassignment
+
+9. Concatenating Assignment Operator
+
+10. Assign by Reference
