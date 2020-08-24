@@ -43,3 +43,27 @@ Exercises
 9. Concatenating Assignment Operator
 
 10. Assign by Reference
+
+## PHP Numbers
+
+LESSON 3
+
+Learn about the PHP number data types and arithmetic operators.
+
+Exercises
+
+1. Numbers
+
+2. Addition and Subtraction
+
+3. Using Number Variables
+
+4. Multiplication and Division
+
+5. Exponentiation
+
+6. Modulo
+
+7. Order of Operations
+
+8. Mathematical Assignment Operators
