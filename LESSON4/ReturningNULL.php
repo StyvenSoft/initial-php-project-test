@@ -9,3 +9,8 @@ $result = returnNothing(); // Prints: I'm running! I'm running!
 
 echo $result; // Nothing is printed
 
+function createVacuum() {
+
+}
+   
+echo createVacuum() * 10;
