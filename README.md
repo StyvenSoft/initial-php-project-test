@@ -94,8 +94,8 @@ Exercises
 
 9. [Multiple Parameters](LESSON4/MultipleParameters.php)
 
-10. Default Parameters
+10. [Default Parameters](LESSON4/DefaultParameters.php)
 
-11. Pass By Reference
+11. [Pass By Reference](LESSON4/PassByReference.php)
 
-12. Variable Scope
+12. [Variable Scope](LESSON4/VariableScope.php)
