@@ -8,13 +8,13 @@ Exercises
 
 1. History of PHP
 
-2. How is PHP used in HTML?
+2. [How is PHP used in HTML?](LESSON1/first.php)
 
-3. How is PHP Executed?
+3. [How is PHP Executed?](LESSON1/index.php)
 
-4. PHP Comments
+4. [PHP Comments](LESSON1/comments.php)
 
-5. Todo: Learn PHP
+5. [Todo: Learn PHP](Todo-List-php/index.php)
 
 ## PHP Strings and Variables
 
@@ -26,23 +26,23 @@ Exercises
 
 1. Strings
 
-2. Escape Sequences
+2. [Escape Sequences](LESSON2/EscapeSequences.php)
 
-3. String Concatenation
+3. [String Concatenation](LESSON2/StringConcatenation.php)
 
 4. Variables
 
-5. Creating Variables
+5. [Creating Variables](LESSON2/CreatingVariables.php)
 
-6. Using Variables
+6. [Using Variables](LESSON2/UsingVariables.php)
 
-7. Variable Parsing
+7. [Variable Parsing](LESSON2/VariableParsing.php)
 
-8. Variable Reassignment
+8. [Variable Reassignment](LESSON2/VariableReassignment.php)
 
-9. Concatenating Assignment Operator
+9. [Concatenating Assignment Operator](LESSON2/AssignmentOperator.php)
 
-10. Assign by Reference
+10. [Assign by Reference](LESSON2/AssignReference.php)
 
 ## PHP Numbers
 
@@ -52,21 +52,21 @@ Learn about the PHP number data types and arithmetic operators.
 
 Exercises
 
-1. Numbers
+1. [Numbers](LESSON3/Numbers.php)
 
 2. Addition and Subtraction
 
-3. Using Number Variables
+3. [Using Number Variables](LESSON3/NumberVariables.php)
 
-4. Multiplication and Division
+4. [Multiplication and Division](LESSON3/MultiplicationDivision.php)
 
-5. Exponentiation
+5. [Exponentiation](LESSON3/Exponentiation.php)
 
-6. Modulo
+6. [Modulo](LESSON3/Modulo.php)
 
-7. Order of Operations
+7. [Order of Operations](LESSON3/OrderOperations.php)
 
-8. Mathematical Assignment Operators
+8. [Mathematical Assignment Operators](LESSON3/MathematicalOperators.php)
 
 ## Introduction to PHP Functions
 
@@ -78,21 +78,21 @@ Exercises
 
 1. Introduction
 
-2. Defining Functions
+2. [Defining Functions](LESSON4/DefiningFunctions.php)
 
-3. Invoking Functions
+3. [Invoking Functions](LESSON4/InvokingFunctions.php)
 
-4. Return Statements
+4. [Return Statements](LESSON4/ReturnStatements.php)
 
-5. More on Return Statements
+5. [More on Return Statements](LESSON4/MoreReturnStatements.php)
 
-6. Return Values
+6. [Return Values](LESSON4/ReturnValues.php)
 
-7. Returning NULL
+7. [Returning NULL](LESSON4/ReturningNULL.php)
 
-8. Parameters
+8. [Parameters](LESSON4/Parameters.php)
 
-9. Multiple Parameters
+9. [Multiple Parameters](LESSON4/MultipleParameters.php)
 
 10. Default Parameters
 
