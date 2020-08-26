@@ -111,13 +111,13 @@ Exercises
 
 1. Introduction
 
-2. Working with Variables
+2. [Working with Variables](LESSON5/WorkingVariables.php)
 
-3. String Functions
+3. [String Functions](LESSON5/StringFunctions.php)
 
-4. Working with Substrings
+4. [Working with Substrings](LESSON5/WorkingSubstrings.php)
 
-5. Number Functions
+5. [Number Functions](LESSON5/NumberFunctions.php)
 
 6. Generating Random Numbers
 
