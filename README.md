@@ -119,8 +119,8 @@ Exercises
 
 5. [Number Functions](LESSON5/NumberFunctions.php)
 
-6. Generating Random Numbers
+6. [Generating Random Numbers](LESSON5/GeneratingRandomNums.php)
 
-7. Documentation
+7. [Documentation](LESSON5/Documentation.php)
 
-8. Finding Functions
+8. [Finding Functions](LESSON5/FindingFunctions.php)
