@@ -70,7 +70,7 @@ Exercises
 
 ## Introduction to PHP Functions
 
-LESSON
+LESSON 4
 
 Learn how to create functions, reusable blocks of code, in PHP.
 
@@ -99,3 +99,28 @@ Exercises
 11. [Pass By Reference](LESSON4/PassByReference.php)
 
 12. [Variable Scope](LESSON4/VariableScope.php)
+
+
+Intro to Built-in PHP Functions
+ 
+LESSON 5
+
+Learn how to use, find, and understand functions that come built into the PHP
+
+Exercises
+
+1. Introduction
+
+2. Working with Variables
+
+3. String Functions
+
+4. Working with Substrings
+
+5. Number Functions
+
+6. Generating Random Numbers
+
+7. Documentation
+
+8. Finding Functions
