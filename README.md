@@ -124,3 +124,30 @@ Exercises
 7. [Documentation](LESSON5/Documentation.php)
 
 8. [Finding Functions](LESSON5/FindingFunctions.php)
+
+
+## Ordered Arrays
+
+LESSON 6
+
+Learn about storing data in ordered lists with the PHP ordered arrays data structure.
+
+Exercises
+
+1. Introduction
+
+2. [Creating Arrays with array()](LESSON6/CreatingArrays.php)
+
+3. [Creating Arrays with Short Syntax](LESSON6/CreatingArraysShort.php)
+
+4. [Printing Arrays](LESSON6/PrintingArrays.php)
+
+5. [Accessing an Element](LESSON6/AccessingElement.php)
+
+6. [Adding and Changing Elements](LESSON6/AddingChanging.php)
+
+7. [More Array Methods: Pushing and Popping](LESSON6/MoreArrayMethods.php)
+
+8. Shifting and Unshifting
+
+9. Nested Arrays
