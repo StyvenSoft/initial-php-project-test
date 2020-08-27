@@ -117,7 +117,7 @@ Exercises
 
 4. [Working with Substrings](LESSON5/WorkingSubstrings.php)
 
-5. [Number Functions](LESSON5/NumberFunctions.php)
+5. [Number Functions](LESSON5/NumberFunctions.php)  
 
 6. [Generating Random Numbers](LESSON5/GeneratingRandomNums.php)
 
