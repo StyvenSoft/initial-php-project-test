@@ -163,13 +163,13 @@ Exercises
 
 1. Introduction
 
-2. Associative Arrays
+2. [Associative Arrays](LESSON7/AssociativeArrays.php)
 
-3. Printing Associative Arrays
+3. [Printing Associative Arrays](LESSON7/PrintingAssociative.php)
 
-4. Accessing and Adding Elements
+4. [Accessing and Adding Elements](LESSON7/AccessingAddingElements.php)
 
-5. Changing and Removing Elements
+5. [Changing and Removing Elements](LESSON7/ChangingRemoving.php)
 
 6. Numerical Keys
 
