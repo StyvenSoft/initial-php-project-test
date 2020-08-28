@@ -101,7 +101,7 @@ Exercises
 12. [Variable Scope](LESSON4/VariableScope.php)
 
 
-Intro to Built-in PHP Functions
+## Intro to Built-in PHP Functions
  
 LESSON 5
 
@@ -151,3 +151,28 @@ Exercises
 8. [Shifting and Unshifting](LESSON6/ShiftingUnshifting.php)
 
 9. [Nested Arrays](LESSON6/NestedArrays.php)
+
+
+## Associative Arrays
+
+LESSON 7
+
+Learn how to create and use PHP associative arrays.
+
+Exercises
+
+1. Introduction
+
+2. Associative Arrays
+
+3. Printing Associative Arrays
+
+4. Accessing and Adding Elements
+
+5. Changing and Removing Elements
+
+6. Numerical Keys
+
+7. Joining Arrays
+
+8. Assign by Value or by Reference
