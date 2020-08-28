@@ -16,3 +16,9 @@ echo implode(", ", $new_array); // Prints: eeny, meeny, miny, moe
 $stack = ["wild success", "failure", "struggle"];
 // Write your code below:
 
+array_push($stack, "blocker", "impediment");
+
+echo implode(", ", $stack); 
+
+array_pop($stack);
+array_pop($stack);

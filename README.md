@@ -148,6 +148,6 @@ Exercises
 
 7. [More Array Methods: Pushing and Popping](LESSON6/MoreArrayMethods.php)
 
-8. Shifting and Unshifting
+8. [Shifting and Unshifting](LESSON6/ShiftingUnshifting.php)
 
-9. Nested Arrays
+9. [Nested Arrays](LESSON6/NestedArrays.php)
