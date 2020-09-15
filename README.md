@@ -176,3 +176,9 @@ Exercises
 7. Joining Arrays
 
 8. Assign by Value or by Reference
+
+---
+
+[Function Reference](https://www.php.net/manual/en/funcref.php)
+
+[Math Functions](https://www.php.net/manual/en/ref.math.php)
