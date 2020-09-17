@@ -17,7 +17,7 @@
         POST Form: <input type="text" name="post_name">
         <input type="submit" value="Submit POST">
     </form>
-    <a href="index.php">Reset</a>
+    <a href="index_request.php">Reset</a>
 </body>
 
 </html>
