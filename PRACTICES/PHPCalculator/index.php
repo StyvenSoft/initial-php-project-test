@@ -2,15 +2,28 @@
 
 <body>
     <h3>Addition</h3>
-    <form action="addition.php">
-        First Number: <input type="number"><br>
-        Second Number: <input type="number"><br>
+    <form action="addition.php" method="get">
+        First Number: <input type="number" name="add_first"><br>
+        Second Number: <input type="number" name="add_second"><br>
         <button type="submit">Add</button><br>
     </form>
     <h3>Division</h3>
-    <form action="division.php">
-        Numerator: <input type="number"><br>
-        Denominator: <input type="number"><br>
+    <form action="division.php" method="get">
+        Numerator: <input type="number" name="div_num"><br>
+        Denominator: <input type="number" name="div_den"><br>
+        <button type="submit">Divide</button><br>
+    </form>
+
+    <h3>Multiplication</h3>
+    <form action="multiplication.php" method="get">
+        First Number: <input type="number" name="mul_first"><br>
+        Second Number: <input type="number" name="mul_second"><br>
+        <button type="submit">Add</button><br>
+    </form>
+    <h3>Subtraction</h3>
+    <form action="subtraction.php" method="get">
+        First Number: <input type="number" name="sub_first"><br>
+        Second Number: <input type="number" name="sub_second"><br>
         <button type="submit">Divide</button><br>
     </form>
 
