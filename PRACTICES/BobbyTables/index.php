@@ -19,7 +19,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } else {
         $validation_error .= "You must pick a wizard, mage, or orc. <br>";
     }
-    $birth_year = $_POST["birth_year"];
+    $raw_birth_year = $_POST["birth_year"];
+    if (filter_var($raw_birth_year, FILTER_VALIDATE_INT, $options)) {
+        $birth_year = $raw_birth_year;
+    } else {
+        $validation_error .= "That can't be your birth year. <br>";
+    }
     if (filter_var($raw_email, FILTER_VALIDATE_EMAIL)) {
         $email = $raw_email;
     } else {
