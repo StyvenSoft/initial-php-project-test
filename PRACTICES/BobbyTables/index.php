@@ -13,8 +13,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } else {
         $name = $raw_name;
     }
-    $character = $_POST["character"];
+    $raw_character = $_POST["character"];
+    if (in_array($raw_character, ["wizard", "mage", "orc"])) {
+        $character = $raw_character;
+    } else {
+        $validation_error .= "You must pick a wizard, mage, or orc. <br>";
+    }
     $birth_year = $_POST["birth_year"];
+    if (filter_var($raw_email, FILTER_VALIDATE_EMAIL)) {
+        $email = $raw_email;
+    } else {
+        $validation_error .= "Invalid email. <br>";
+    }
 }
 ?>
 <h1>Create your profile</h1>
